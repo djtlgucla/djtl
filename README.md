@@ -1,6 +1,6 @@
 # gatsby-contentful-starter
 
-Gatsby [Contentful](https://www.contentful.com) starter for creating a blog
+Gatsby [Contentful](https://www.contentful.com) starter for creating a blog -> https://djtl-3765347483.gtsb.io
 
 ![The index page of the starter blog](https://rawgit.com/contentful-userland/gatsby-contentful-starter/master/screenshot.jpg "The index page of the starter blog")
 
